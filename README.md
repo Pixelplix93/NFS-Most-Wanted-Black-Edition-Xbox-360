@@ -53,6 +53,8 @@ Available as:
 
 ## Credits
 
+Created by **Epix Digital Studio**
+
 **tuhana** – Original Black Edition unlock research and Xenia patch.
 
 
